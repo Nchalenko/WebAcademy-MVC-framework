@@ -8,7 +8,7 @@ return [
         'main'      => [
             'type'     => 'mysql',
             'host'     => 'localhost',
-            'name'     => 'webacademy_movies_db',
+            'name'     => 'webacademy_mvc_db',
             'user'     => 'root',
             'password' => '',
             'charset'  => 'utf8',
@@ -16,7 +16,7 @@ return [
         'test'      => [
             'type'     => 'mysql',
             'host'     => 'localhost',
-            'name'     => 'webacademy_movies_db_test',
+            'name'     => 'webacademy_mvc_db_test',
             'user'     => 'root',
             'password' => '',
             'charset'  => 'utf8',

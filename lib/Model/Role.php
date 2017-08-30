@@ -47,7 +47,7 @@ class Role implements ModelInterface
         $order = isset($params['SortField']) && isset($params['SortOrder']) ?
             " ORDER BY $params[SortField] $params[SortOrder] " : '';
 
-        $query = "SELECT * FROM ".self::TABLE_NAME.$order.$limit.$offset;
+        $query = "SELECT * FROM ".self::TABLE_NAME . $order . $limit . $offset;
 
         $statement = $connection->prepare($query);
 

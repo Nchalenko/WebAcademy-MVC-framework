@@ -109,6 +109,7 @@ class Base
      */
     public function action($class)
     {
+        error_log(print_r($class,1));
         return new $class([
             'UserId'    => $this->getUserId(),
             'locale'    => $this->getLocale(),

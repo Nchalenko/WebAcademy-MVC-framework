@@ -1,12 +1,5 @@
 <?php
     require_once __DIR__ . '/helpers.php';
-
-    $langs = [
-        'en'    => 'EN',
-        'de'    => 'DE',
-        'ru'    => 'RU',
-        'ua'    => 'UA',
-    ];
 ?>
 
 <!DOCTYPE html>
@@ -26,14 +19,6 @@
     <div class="header">
         <div class="wrapper">
             <h1 class="branding-title"><a href="/"><?= gettext("Personal Media Library") ?></a></h1>
-            <span class="lang">
-                <?php foreach ($langs as $code => $langName) : ?>
-                    <button data-value='<?= $code ?>'
-                            class="btn btn-lang <?= getLanguage() == $code ? 'active' : '' ?>">
-                        <?= $langName ?>
-                    </button>
-                <?php endforeach; ?>
-            </span>
             <?php if (isLogedIn()) : ?>
                 <ul class="nav">
                     <li class="books <?= $section == 'books' ? 'on' : '' ?>">
