@@ -21,15 +21,18 @@
             <h1 class="branding-title"><a href="/"><?= gettext("Personal Media Library") ?></a></h1>
             <?php if (isLogedIn()) : ?>
                 <ul class="nav">
-                    <li class="books <?= $section == 'books' ? 'on' : '' ?>">
-                        <a href="/books"><?= gettext("Books") ?></a>
+                    <li class="blog <?= $section == 'blog' ? 'on' : '' ?>">
+                        <a href="/blog">Blog</a>
                     </li>
-                    <li class="movies <?= $section == 'movies' ? 'on' : '' ?>">
-                        <a href="/movies"><?= gettext("Movies") ?></a>
-                    </li>
-                    <li class="music <?= $section == 'music' ? 'on' : '' ?>">
-                        <a href="/music"><?= gettext("Music") ?></a>
-                    </li>
+<!--                    <li class="books --><?//= $section == 'books' ? 'on' : '' ?><!--">-->
+<!--                        <a href="/books">--><?//= gettext("Books") ?><!--</a>-->
+<!--                    </li>-->
+<!--                    <li class="movies --><?//= $section == 'movies' ? 'on' : '' ?><!--">-->
+<!--                        <a href="/movies">--><?//= gettext("Movies") ?><!--</a>-->
+<!--                    </li>-->
+<!--                    <li class="music --><?//= $section == 'music' ? 'on' : '' ?><!--">-->
+<!--                        <a href="/music">--><?//= gettext("Music") ?><!--</a>-->
+<!--                    </li>-->
                 </ul>
             <?php endif; ?>
         </div>

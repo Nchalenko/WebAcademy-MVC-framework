@@ -6,7 +6,7 @@ if (!isLogedIn()) {
     header('Location: /login');
 }
 
-$pageTitle = gettext("Personal Media Library");
+$pageTitle = gettext("First MVC Library Blog");
 $pageTitle .= isset($title) ? ' | ' . $title : '';
 
 $section = null;
@@ -21,7 +21,6 @@ include("inc/header.php");
             <div class="wrapper">
                 <h2><?= gettext('May we suggest something?') ?></h2>
                 <ul class="catalog">
-                    <?php // TODO: add ribbon to each category (movie, book, music) ?>
                     <?php foreach ($items as $item) : ?>
                         <li>
                             <a href='<?= '/' . $item['category'] . '/' . $item['id'] ?>'>

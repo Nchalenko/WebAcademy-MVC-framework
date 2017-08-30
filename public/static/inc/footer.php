@@ -4,8 +4,9 @@
             <ul>
                 <li><a href="http://twitter.com/">Twitter</a></li>
                 <li><a href="https://www.facebook.com/">Facebook</a></li>
+                <li><a href="https://www.google.com/">Google</a></li>
             </ul>
-            <p>&copy; <?php echo date("Y"); ?> <?= gettext("Personal Media Library") ?></p>
+            <p>&copy; <?php echo date("Y"); ?> WebAcademy MVC Library Blog</p>
         </div>
     </div>
 
