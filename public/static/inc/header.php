@@ -55,7 +55,7 @@
                 </span>
             <?php else: ?>
                 <span class="hint">
-                    <?= gettext('To see library\'s content, you need to be logged in') ?>
+                    <?= gettext('To see blog\'s content, you need to be logged in') ?>
                 </span>
             <?php endif; ?>
         </div>
