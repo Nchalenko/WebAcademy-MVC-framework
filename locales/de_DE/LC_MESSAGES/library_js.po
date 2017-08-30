@@ -1,0 +1,60 @@
+# Personal Media Library.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Sergey Podgornyy <sergey.podgornyy@yahoo.de>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-23 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sergey Podgornyy <sergey.podgornyy@yahoo.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Well done!"
+msgstr "Gut gemacht!"
+
+msgid "Oh snap!"
+msgstr "Oh Verschluss!"
+
+msgid "Change a few things up and try submitting again"
+msgstr "Ändern Sie ein paar Dinge und versuchen Sie erneut einreichen"
+
+msgid "You successfully inserted movie"
+msgstr "Sie haben ein neuen Film erfolgreich eingefügt"
+
+msgid "You successfully updated this movie"
+msgstr "Sie haben diesen Film erfolgreich aktualisiert"
+
+msgid "You successfully deleted this movie"
+msgstr "Sie haben diesen Film erfolgreich gelöscht"
+
+msgid "You successfully inserted book"
+msgstr "Sie haben erfolgreich ein neues Buch eingefügt"
+
+msgid "You successfully updated this book"
+msgstr "Sie haben dieses Buch erfolgreich aktualisiert"
+
+msgid "You successfully deleted this book"
+msgstr "Sie haben dieses Buch erfolgreich gelöscht"
+
+msgid "You successfully inserted music item"
+msgstr "Sie haben ein neues Musikstück erfolgreich eingefügt"
+
+msgid "You successfully updated this music item"
+msgstr "Sie haben dieses Musikstück erfolgreich aktualisiert"
+
+msgid "You successfully deleted this music item"
+msgstr "Sie haben dieses Musikstück erfolgreich gelöscht"
+
+msgid "Something went wrong. Check your email and password and try submitting again"
+msgstr "Etwas ist schief gelaufen. Überprüfen Sie Ihre E-Mail-Adresse und Ihr Passwort, dann versuchen Sie es erneut"
+
+msgid "You successfully updated your personal data"
+msgstr "Sie haben Ihre persönlichen Daten erfolgreich aktualisiert"

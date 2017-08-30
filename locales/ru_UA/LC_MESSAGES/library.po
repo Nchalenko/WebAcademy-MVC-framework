@@ -1,0 +1,209 @@
+# Personal Media Library.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Sergey Podgornyy <sergey.podgornyy@yahoo.de>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-23 20:39+0200\n"
+"PO-Revision-Date: 2017-02-07 19:01+0300\n"
+"Last-Translator: Sergey Podgornyy <sergey.podgornyy@yahoo.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "Language has been successfully changed"
+msgstr "Мова успішно змінена"
+
+msgid "Unknown Error Occurred. Please contact administrator"
+msgstr "Сталася невідома помилка. Будь ласка, зверніться до адміністратора"
+
+msgid "Some Error Occurred. Please contact administrator"
+msgstr "Сталася помилка. Будь ласка, зверніться до адміністратора"
+
+msgid "Wrong language has been defined"
+msgstr "Неправильний мова вказана"
+
+msgid "Personal Media Library"
+msgstr "Особиста медія бібліотека"
+
+msgid "May we suggest something?"
+msgstr "Чи могли б ми Вам дещо порадити?"
+
+msgid "View Details"
+msgstr "Детальніше"
+
+msgid "Title"
+msgstr "Назва"
+
+msgid "required"
+msgstr "обов'язково"
+
+msgid "Year"
+msgstr "Рік"
+
+msgid "Genre"
+msgstr "Жанр"
+
+msgid "Select One"
+msgstr "Виберіть один"
+
+msgid "Authors"
+msgstr "Автори"
+
+msgid "Select authors"
+msgstr "Виберіть авторів"
+
+msgid "Publisher"
+msgstr "Видавництво"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Paperback"
+msgstr "Книга в м'якій обкладинці"
+
+msgid "Ebook"
+msgstr "Електронна книга"
+
+msgid "Hardcover"
+msgstr "Книга в твердій обкладинці"
+
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Update"
+msgstr "Оновити"
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "None"
+msgstr "Жоден"
+
+msgid "Cassette"
+msgstr "Касета"
+
+msgid "Vinyl"
+msgstr "Вініл"
+
+msgid "Artist"
+msgstr "Митець"
+
+msgid "Edit data"
+msgstr "Редагувати"
+
+msgid "Delete item"
+msgstr "Видалити"
+
+msgid "ISBN"
+msgstr "ISBN"
+
+msgid "Director"
+msgstr "Режисер"
+
+msgid "Stars"
+msgstr "Зірки"
+
+msgid "Streaming"
+msgstr "Стрім"
+
+msgid "Casts"
+msgstr "В ролях"
+
+msgid "Select Stars"
+msgstr "Оберіть зірок"
+
+msgid "Insert new item"
+msgstr "Створити новий запис"
+
+msgid "Books"
+msgstr "Книги"
+
+msgid "Movies"
+msgstr "Фільми"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Insert new book"
+msgstr "Додати нову книгу"
+
+msgid "Insert new music"
+msgstr "Додати новий музичний твір"
+
+msgid "Home"
+msgstr "Головна"
+
+msgid "Insert new movie"
+msgstr "Додати новий фільм"
+
+msgid "Login"
+msgstr "Увійти"
+
+msgid "Register"
+msgstr "Зареєструватися"
+
+msgid "Edit user data"
+msgstr "Редагування дані користувача"
+
+msgid "You can update personal data"
+msgstr "Ви можете оновити особисті дані"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Repeat Password"
+msgstr "Повторити пароль"
+
+msgid "Update data"
+msgstr "Оновлювати дані"
+
+msgid "Register new user"
+msgstr "Зареєструвати нового користувача"
+
+msgid "If you already have an account, you can sign in here"
+msgstr "Якщо у вас вже є аккаунт, ви можете увійти тут"
+
+msgid "You need to login"
+msgstr "Вам необхідно увійти в систему"
+
+msgid "Log In"
+msgstr "Увійти"
+
+msgid "Not registered yet? You can register now for FREE"
+msgstr "Ще не зареєстровані? Ви можете зареєструватися прямо зараз безкоштовно"
+
+msgid "Hello"
+msgstr "Привіт"
+
+msgid "Edit personal data"
+msgstr "Редагувати особисті дані"
+
+msgid "Log Out"
+msgstr "Вийти"
+
+msgid "To see library's content, you need to be logged in"
+msgstr "Щоб побачити вміст бібліотеки, вам необхідно увійти в систему"
+
+msgid "Confirmation of item deletion"
+msgstr "Підтвердження видалення елемента"
+
+msgid "Are you sure you want to permanently delete this item?"
+msgstr "Ви впевнені, що хочете видалити цей запис?"
+
+msgid "Delete"
+msgstr "Видалити"
+
+msgid "Close"
+msgstr "Закрити"
